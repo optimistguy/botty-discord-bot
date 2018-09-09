@@ -155,4 +155,4 @@ message.reply(list[rand])
 });
 
 
-client.login('NDg3OTUyNTA5NzMwNjg0OTY4.DnXv_g.TUIf8H4CDlbOtyu0mMcwk9O_LK0'); //Token Spot
+client.login('tokenhere'); //Token Spot
