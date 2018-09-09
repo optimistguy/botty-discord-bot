@@ -1,0 +1,14 @@
+{
+  "name": "botty",
+  "version": "1.0.0",
+  "description": "a bot that do botty stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
